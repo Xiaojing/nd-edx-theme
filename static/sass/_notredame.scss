@@ -10,7 +10,7 @@
 //-----------------
 
 //Cardinal Color Variables
-$cardinal-red: #003b7c;
+$nd-blue: #003b7c;
 $dark-red: #820000; //Link Color
 $cardinal-light: #c83737; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
 $cardinal-bg: #e9afaf; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
@@ -92,7 +92,7 @@ $header-graphic-sub-color: $lighter-base-font-color;
 $header-link-color: $dark-red;
 $header-link-hover: $cardinal-light;
 
-$button-color: $cardinal-red;
+$button-color: $nd-blue;
 $button-archive-color: $gray-3;
 
 $shadow-color: $gray;
@@ -103,7 +103,7 @@ $button-bg-color: $gray-3;
 $button-bg-hover-color: $gray-1;
 
 // actions - primary
-$action-primary-bg: $cardinal-red;
+$action-primary-bg: $nd-blue;
 $action-primary-fg: $gray-2;
 $action-primary-shadow: none;
 
